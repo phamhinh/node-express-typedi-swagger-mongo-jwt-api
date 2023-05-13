@@ -1,0 +1,13 @@
+{
+  "name": "Node-Express",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "Node-Express"
+    }
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
